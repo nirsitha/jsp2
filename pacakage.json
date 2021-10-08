@@ -1,0 +1,10 @@
+{
+    "main":"p2.js",
+    "scripts":{
+      "start":"node p2.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1",
+      "node": "^16.10.0"
+    }
+  }
